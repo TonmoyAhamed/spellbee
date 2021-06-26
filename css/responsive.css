@@ -1,0 +1,279 @@
+/*  Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .logo {
+        width: 70%;
+        margin: auto;
+    }
+    .call {
+        text-align: center;
+        margin-top: 25px;
+    }
+    .banner-content h6 {
+        font-size: 30px;
+    }
+    .banner-content h1 {
+        font-size: 35px;
+    }
+    .banner-student-number span {
+        display: block;
+        padding-right: 0;
+        border-right: 0;
+        margin-bottom: 20px;
+    }
+    .banner-content h3 {
+        font-size: 30px;
+        margin-bottom: 40px;
+    }
+    .banner-content a h2,.banner-content a h3{
+        font-size: 16px;
+    }
+    .banner {
+        background-image: none;
+        height: auto;
+    }
+    .banner-content {
+        margin-top: 50px;
+    }
+    .about-heading h2 {
+        font-size: 30px;
+    }
+    #bdr-btm2::before {
+        top: 90px;
+    }
+    .about::before{
+        display: none;
+    }   
+    .about-content-img {
+        margin: 50px 0 0 0;
+    }
+    .inner-row-content h3 {
+        font-size: 16px;
+        color: #141414;
+    } 
+    .inner-row-content {
+        margin-top: 0px;
+    }
+    .inner-row-content p {
+        font-size: 16px;
+        margin: 30px 0;
+        color: #141414;
+    }
+    .why-must {
+        padding: 30px 0;
+    }
+    .why-must h2 {
+        font-size: 30px;
+    }.about::after{
+        display: none;
+    }
+    #bdr-btm::before{
+        top: 190px;
+    }
+    .why-must ul li {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .video-sec {
+        padding: 15px 0 50px 0px;
+    }
+    #bdr-btm3::before {
+        top: 75px;
+    }
+    .single-video {
+        margin-bottom: 25px;
+    }
+    .form p {
+        font-size: 14px;
+    }
+    .footer-head {
+        padding: 50px 0 45px 0;
+        text-align: center;
+    }
+    .footer-email {
+        text-align: center;
+    }
+    .about-single-box {
+        margin-bottom: 30px;
+    }    
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .logo {
+        width: 70%;
+        margin: auto;
+    }
+    .call {
+        text-align: center;
+        margin-top: 25px;
+    }
+    .banner-content h6 {
+        font-size: 30px;
+    }
+    .banner-content h1 {
+        font-size: 35px;
+    }
+    .banner-student-number span {
+        display: block;
+        padding-right: 0;
+        border-right: 0;
+        margin-bottom: 20px;
+    }
+    .banner-content h3 {
+        font-size: 30px;
+        margin-bottom: 40px;
+    }
+    .banner-content a h2,.banner-content a h3{
+        font-size: 16px;
+    }
+    .banner {
+        background-image: none;
+        height: auto;
+    }
+    .banner-content {
+        margin-top: 50px;
+    }
+    .about-heading h2 {
+        font-size: 30px;
+    }
+    #bdr-btm2::before {
+        top: 55px;
+    }
+    .about::before{
+        display: none;
+    }   
+    .about-content-img {
+        margin: 50px 0 0 0;
+    }
+    .inner-row-content h3 {
+        font-size: 16px;
+        color: #141414;
+    } 
+    .inner-row-content {
+        margin-top: 0px;
+    }
+    .inner-row-content p {
+        font-size: 16px;
+        margin: 30px 0;
+        color: #141414;
+    }
+    .why-must {
+        padding: 30px 0;
+    }
+    .why-must h2 {
+        font-size: 30px;
+    }.about::after{
+        display: none;
+    }
+    #bdr-btm::before {
+        top: 130px;
+    }
+    .why-must ul li {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .video-sec {
+        padding: 15px 0 50px 0px;
+    }
+    #bdr-btm3::before {
+        top: 75px;
+    }
+    .single-video {
+        margin-bottom: 25px;
+    }
+    .form p {
+        font-size: 14px;
+    }
+    .footer-head {
+        padding: 50px 0 45px 0;
+        text-align: center;
+    }
+    .footer-email {
+        text-align: center;
+    }
+    .about-single-box {
+        margin-bottom: 30px;
+    }
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .banner-content h1 {
+        font-size: 35px;
+    }
+    .banner-content h6 {
+        font-size: 30px;
+    }
+    .banner-student-number span h2 {
+        font-size: 30px;
+    }
+    .banner-student-number span p {
+        font-size: 25px;
+    }
+    .banner-content h3 {
+        font-size: 30px;
+        margin-bottom: 95px;
+    }
+    .banner-content a h2 {
+        font-size: 18px;
+    }
+    .banner-content a h3 {
+        font-size: 18px;
+    }
+    #bdr-btm2::before {
+        top: 106px;
+    }
+    .inner-row-content {
+        margin-top: 0px;
+    }
+    .about::before {
+        height: 265px;
+        top: 477px;
+    }
+    .inner-row-content p {
+        font-size: 17px;
+        margin: 33px 0;
+    }
+    .inner-row-content h3 {
+        font-size: 17px;
+    }
+    #bdr-btm::before{
+        top: 206px;
+    }
+    .about::after {
+        top: 730px;
+    }
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .banner-content h1 {
+        font-size: 52px;
+    }
+    .banner-content h6 {
+        font-size: 42px;
+    }
+    .banner-content a h3 {
+        font-size: 25px;
+    }
+    .banner-content a h2 {
+        font-size: 25px;
+    }
+    .about::before {
+        height: 268px;
+        top: 482px;
+    }
+    .about::after {
+        top: 648px;
+    }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+    .about::before {
+        height: 255px;
+    }
+    .why-must p {
+        margin-top: 30px;
+    }
+}
